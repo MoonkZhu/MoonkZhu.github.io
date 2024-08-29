@@ -4,42 +4,37 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p style="text-align: center;">
+    <strong>4+ years of experience in GPU Compiler Development</strong>
+    <br>
+    Expertise spanning from OpenCL to OpenGL.
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<hr>
+
+<h2>About Me</h2>
+
+<p>
+I have over four years of experience in GPU compiler development, specializing in technologies such as OpenCL and OpenGL. My work is fueled by a passion for performance optimization, bug fixing, and feature development. I’ve contributed to mobile GPU development, PC GPUs, and the open-source project Mesa. Additionally, I have a baisc knowledge of GPU drivers.
+</p>
+
+<p>
+    When I’m not coding, you might find me exploring game development techniques.I planned to develop my first 2d game in 2024.
+</p>
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<ul class="skill-list" style="list-style-type: square; margin-left: 20px;">
+    <li>C/C++</li>
+    <li>GPU Compiler Development (4 years)</li>
+    <li>OpenCL/OpenGL</li>
+    <li>Godot Game Development</li>
+    <li>Basic Knowledge of GPU Drivers</li>
 </ul>
 
-<h2>Diary</h2>
+<h2>Github</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul style="list-style-type: disc; margin-left: 20px;">
+    <li><a href="https://github.com/MoonkZhu" target="_blank" rel="noopener noreferrer">MoonkZhu on GitHub</a></li>
 </ul>
+
